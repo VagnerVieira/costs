@@ -1,25 +1,37 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "Id":1,
-            "Name": "Infra"
-        },
-        {
-            "Id":2,
-            "Name": "Desenvolvimento"
-        },
-        {
-            "Id":3,
-            "Name": "Design"
-        },
-        {
-            "Id":4,
-            "Name": "Planejamento"
-        },
-        {
-            "Id":5,
-            "Name": "Suporte"
-        }
-    ]
+  "projects": [
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "name": "Projeto de Desenvolvimento",
+      "budget": "5000",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "Id": 1,
+      "Name": "Infra"
+    },
+    {
+      "Id": 2,
+      "Name": "Desenvolvimento"
+    },
+    {
+      "Id": 3,
+      "Name": "Design"
+    },
+    {
+      "Id": 4,
+      "Name": "Planejamento"
+    },
+    {
+      "Id": 5,
+      "Name": "Suporte"
+    }
+  ]
 }
